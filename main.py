@@ -261,6 +261,9 @@ def main(anchorFrame, targetFrame, outfile="OUTPUT", saveOutput=False, blockSize
     return residualMetric, residualFrame
 
 if __name__ == "__main__":
+    pass
+    """
     anchorPath = "testImages/personFrame1.png"
     targetPath = "testImages/personFrame2.png"
     main(anchorPath, targetPath)
+    """
