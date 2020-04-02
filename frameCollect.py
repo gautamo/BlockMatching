@@ -65,20 +65,15 @@ def downSampleVideo(filepath, factor=0.5, outfolder="VIDEOS"):
 
 
 if __name__ == "__main__":
-    #videopath = "/Users/gbanuru/PycharmProjects/detectAndTrack/cleanVideos/UAV123_car2.mp4"
-    #videopath = "/Users/gbanuru/PycharmProjects/detectAndTrack/cleanVideos/UAV123_person1.mp4"
-    #videopath = "/Users/gbanuru/PycharmProjects/BlockMatching/VIDEOS/IndiaAriel.mp4"
-
 
     timer = time.time()
 
     # COMMAND STARTS HERE
-    #getFrames(videopath, name="personFrame", skip=10, count=2)
 
-    videopath = "/Users/gbanuru/PycharmProjects/BlockMatching/VIDEOS/CityWalk.mp4"
-    downSampleVideo(videopath)
-    videopath = "/Users/gbanuru/PycharmProjects/BlockMatching/VIDEOS/HouseTour.mp4"
-    downSampleVideo(videopath)
+    #videopath = "VIDEOS/CityWalk.mp4"
+    #downSampleVideo(videopath)
+    #videopath = "VIDEOS/HouseTour.mp4"
+    #downSampleVideo(videopath)
 
     #COMMAND ENDS HERE
 
