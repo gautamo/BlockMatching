@@ -28,7 +28,7 @@ If you want to run the 3 Step Search Block Matching Algorithm on a video and gra
 <br>
 <p align="center"><img src="PLOT/mean_UAV123_person1_resized360_10predF0skipF10meanSize_plot.png"></p>
 
-##### Compute the residual metric across a video to visualize the parts of the video that change the most.
+##### Compute the residual metric across a video to visualize the parts of the video that change the most. The residual metric is computed from the mean absolute difference of the residual frame.
 
 
 #### How Effective is Compression?
