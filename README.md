@@ -1,9 +1,9 @@
 # BlockMatching
 3 Step Search Block Matching Algorithm found in compression codecs such as H.264 implemented in Python
 
-To run 3 Step Search block matching on two frames, run main() in main.py. 
+To run the 3 Step Search Block Matching Algorithm on two frames, run main() in main.py. 
 
-If you want to run 3 Step Search block matching on a video and graph the residual metric which quantifies the change across frames, run graphSession() in analytics.py.
+If you want to run the 3 Step Search Block Matching Algorithm on a video and graph the residual metric (quantifies the change across frames), run graphSession() in analytics.py.
 
 <img src="OUTPUT/personFrameOutput/targetFrame.png">
 
