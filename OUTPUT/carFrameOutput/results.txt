@@ -1,0 +1,2 @@
+Residual Metric: 21.24
+Naive Residual Metric: 87.97
