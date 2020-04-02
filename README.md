@@ -1,5 +1,5 @@
-# BlockMatching
-3 Step Search Block Matching Algorithm found in compression codecs such as H.264 implemented in Python
+# 3 Step Search Block Matching Algorithm
+3 Step Search Block Matching Algorithm found in compression codecs such as H.264 implemented in Python.
 
 To run the 3 Step Search Block Matching Algorithm on two frames, run main() in main.py. 
 
@@ -24,6 +24,11 @@ If you want to run the 3 Step Search Block Matching Algorithm on a video and gra
 <img src="OUTPUT/personFrameOutput/reconstructTargetFrame.png">
 
 ##### This is the predicted frame added to the residual frame. It perfectly reconstructs the target frame as expected.
+
+<br>
+<p align="center"><img src="PLOT/mean_UAV123_person1_resized360_10predF0skipF10meanSize_plot.png"></p>
+
+##### Compute the residual metric across a video to visualize the parts of the video that change the most.
 
 
 #### How Effective is Compression?
